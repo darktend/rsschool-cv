@@ -1,0 +1,25 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    background: #FFFFE0;
+    color: #000000;
+    font: 17px/23px Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+.foto {
+    padding: 27px;
+    position: absolute;
+    left: 60%;
+}
+.cv {
+    position: absolute;
+    left: 25%;
+    right: 25%;
+}
+hr {
+    background-color: black;
+    height: 1px;
+}
+p { 
+    text-indent: 2.4em;
+}
