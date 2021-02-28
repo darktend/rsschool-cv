@@ -2,7 +2,7 @@
 
 ## Contack info
 
-* linkedn:  [https://www.linkedin.com/in/vlad-godun-698781162/](https://www.linkedin.com/in/vlad-godun-698781162/)
+* linkedn: [https://www.linkedin.com/in/vlad-godun-698781162/](https://www.linkedin.com/in/vlad-godun-698781162/)
 * telegram: @vlad2456
   
 ##  About me
